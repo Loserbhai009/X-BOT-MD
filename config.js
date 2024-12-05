@@ -8,13 +8,13 @@ if (fs.existsSync('config.env')) {
 }
 
 const LOGS = process.env.LOGS || "false";
-const API = "https://api-aswin-sparky.koyeb.app";
+const API = "07twggrdyhzc1yyhx7myrrv3zm9hnawl37y91vnkj7vlf31n3yawt3co4f5rgh4y";
 const ALIVE = process.env.ALIVE || "I am Alive";
 const HANDLERS = process.env.HANDLERS || ".";
-const SESSION_ID = process.env.SESSION_ID || "";
-const SUDO = process.env.SUDO || '917012984396';
+const SESSION_ID = process.env.SESSION_ID || "A-S-W-I-N-S-P-A-R-K-Y:c9502eb9588f16d6492f18948a63d0ac";
+const SUDO = process.env.SUDO || '923251039272;
 const AUTO_STATUS_VIEW = process.env.AUTO_STATUS_VIEW || "true";
-const ALWAYS_ONLINE = process.env.ALWAYS_ONLINE || "false";
+const ALWAYS_ONLINE = process.env.ALWAYS_ONLINE || "true";
 const DISABLE_PM = process.env.DISABLE_PM  || "false";
 const PM_BLOCK = process.env.PM_BLOCK || "false";
 const PMB = process.env.PMB || "Sorry, I can't help you in private chat.";
