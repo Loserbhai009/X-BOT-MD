@@ -8,7 +8,7 @@ if (fs.existsSync('config.env')) {
 }
 
 const LOGS = process.env.LOGS || "false";
-const API = "07twggrdyhzc1yyhx7myrrv3zm9hnawl37y91vnkj7vlf31n3yawt3co4f5rgh4y";
+const API = "ifq8p57n9bou6b80id285opv6bfbhpgi7k2likswhhp6qvsvgnurf9umtzyzv6ii";
 const ALIVE = process.env.ALIVE || "I am Alive";
 const HANDLERS = process.env.HANDLERS || ".";
 const SESSION_ID = process.env.SESSION_ID || "A-S-W-I-N-S-P-A-R-K-Y:c9502eb9588f16d6492f18948a63d0ac";
